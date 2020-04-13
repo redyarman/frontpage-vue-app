@@ -7,7 +7,7 @@ This is the simple example VueJS/Apollo app that lives at dev.apollodata.com.
 Clone the repository and run `npm install`:
 
 ```
-git clone https://github.com/Akryum/frontpage-vue-app
+git clone https://github.com/redyarman/frontpage-vue-app.git
 cd frontpage-vue-app
 npm install
 ```
